@@ -1,5 +1,5 @@
-Data manager user guide
-
+**Data manager user guide
+**
 Purpose: This script helps organize experimental video recordings and metadata files.
 
 The script will:
